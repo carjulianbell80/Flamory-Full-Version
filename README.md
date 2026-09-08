@@ -235,3 +235,6 @@ This repository serves as the official landing page for Flamory. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Flamory today!**
+
+---
+**Last updated:** 2026-09-08 16:54:32 UTC
