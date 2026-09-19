@@ -237,4 +237,4 @@ This repository serves as the official landing page for Flamory. The software is
 **Get the most recent version of Flamory today!**
 
 ---
-**Last updated:** 2026-09-18 22:03:01 UTC
+**Last updated:** 2026-09-19 00:46:49 UTC
